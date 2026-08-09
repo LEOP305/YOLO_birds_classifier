@@ -30,7 +30,7 @@ Built as part of Tuwaiq academy's Data Science and Ai Bootcamp.
 ```
 .
 ├── app.py                  # Streamlit deployment app
-├── requirements.txt        # Python dependencies
+├── Requirements.txt        # Python dependencies
 ├── best.pt                 # Trained YOLOv8 model weights (not tracked in git, add manually)
 ├── YOLO_model_training.ipynb  # Training notebook (Colab)
 └── README.md

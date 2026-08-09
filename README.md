@@ -49,7 +49,7 @@ Built as part of Tuwaiq academy's Data Science and Ai Bootcamp.
    pip install -r Requirements.txt
    ```
 
-3. Place your trained `best.pt` model file in the project root (see [Training](#training) if you need to train your own).
+3. the trained `best.pt` model is already in the project root (see [Training](#training) if you need to train your own).
 
 4. Run the app:
    ```bash
